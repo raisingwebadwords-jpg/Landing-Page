@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Search AI — SEO, AEO & GEO Landing Page",
+  "description": "High-conversion PPC landing page for next-generation digital marketing combining traditional SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
